@@ -40,7 +40,7 @@
                 android:textSize="34sp" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/editName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -63,7 +63,7 @@
                 android:textSize="34sp" />
 
             <EditText
-                android:id="@+id/editTextTextPassword"
+                android:id="@+id/editPW"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:ems="10"
